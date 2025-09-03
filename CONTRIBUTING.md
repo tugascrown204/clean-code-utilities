@@ -26,6 +26,7 @@ Thank you for considering contributing to the Clean Code Utilities project! We a
 - Follow the style guide of the project.
 - Ensure your contributions align with the focus on clean code and best practices.
 - Be respectful in all communications.
+- **Code Reviews**: Be prepared for code reviews and use the feedback to improve your code.
 
 ## Code of Conduct
 By participating in this project, you agree to abide by the code of conduct.
