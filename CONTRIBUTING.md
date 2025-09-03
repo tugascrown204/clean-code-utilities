@@ -1,6 +1,6 @@
 # Contributing to Clean Code Utilities
 
-Thank you for considering to contribute to the Clean Code Utilities project! We appreciate your interest in making our project better. Below are guidelines to help you get started.
+Thank you for considering contributing to the Clean Code Utilities project! We appreciate your interest in enhancing our project. Below are guidelines to help you get started.
 
 ## How to Contribute
 1. **Fork the repository**: Click the 'Fork' button at the top right of this page.
@@ -24,11 +24,11 @@ Thank you for considering to contribute to the Clean Code Utilities project! We 
 ## Guidelines
 - Write clear, concise, and meaningful commit messages.
 - Follow the style guide of the project.
-- Ensure your contributions are in line with the focus on clean code and best practices.
+- Ensure your contributions align with the focus on clean code and best practices.
 - Be respectful in all communications.
 
 ## Code of Conduct
 By participating in this project, you agree to abide by the code of conduct.
 
 ## Questions
-If you have any questions or suggestions, feel free to reach out!
+If you have any questions or suggestions, please feel free to reach out!
