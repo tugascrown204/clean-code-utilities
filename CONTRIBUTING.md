@@ -13,13 +13,13 @@ Thank you for considering contributing to the Clean Code Utilities project! We a
    git checkout -b your-feature-branch
    ```
 4. **Make your changes**: Implement your feature or fix a bug.
-5. **Run tests** (if applicable): Ensure code quality and functionality. It's also recommended to run linter checks.
+5. **Run tests** (if applicable): Ensure code quality and functionality. It is also recommended to run linter checks before committing your changes.
 6. **Commit your changes**: Keep your commit messages clear and descriptive.
 7. **Push to your fork**: 
    ```bash
    git push origin your-feature-branch
    ```
-8. **Open a pull request**: Go to the original repository and select 'New Pull Request'. Be sure to describe your changes in detail.
+8. **Open a pull request**: Go to the original repository and select 'New Pull Request'. Be sure to describe your changes in detail to facilitate the review process.
 
 ## Guidelines
 - Write clear, concise, and meaningful commit messages.
