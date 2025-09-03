@@ -6,7 +6,7 @@ Thank you for considering contributing to the Clean Code Utilities project! We a
 1. **Fork the repository**: Click the 'Fork' button at the top right of this page.
 2. **Clone your fork**: 
    ```bash
-   git clone https://github.com/yourusername/clean-code-utilities.git
+   git clone git@github.com:yourusername/clean-code-utilities.git
    ```
 3. **Create a new branch**: 
    ```bash
